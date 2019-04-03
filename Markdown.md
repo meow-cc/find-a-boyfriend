@@ -102,7 +102,7 @@ ___
 
 ## 5. 图片
 
-![loading](../images/loading.gif '转啊转')
+![loading](http://pic.huke88.com/upload/content/2019/03/06/15518653426058.gif?x-oss-process=image/format,webp '转啊转')
 
 	![图片alt](图片地址 "图片title")
 	
